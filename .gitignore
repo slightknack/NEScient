@@ -1,0 +1,6 @@
+/target
+/old
+/reference
+.*
+!.gitignore
+!.git
